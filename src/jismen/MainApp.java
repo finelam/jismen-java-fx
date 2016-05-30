@@ -9,6 +9,9 @@ import jismen.color_bundle.ColorMngr;
 import jismen.login_bundle.LoginMngr;
 import jismen.product_bundle.ProductMngr;
 import jismen.size_bundle.SizeMngr;
+import jismen.stat_bundle.stat_product_bundle.StatProductMngr;
+import jismen.stat_bundle.stat_supplier_bundle.StatSupplierMngr;
+import jismen.stat_bundle.stat_user_bundle.StatUserMngr;
 import jismen.subcat_bundle.SubcatMngr;
 import jismen.supplier_bundle.SupplierMngr;
 import jismen.tva_bundle.TvaMngr;
@@ -29,6 +32,9 @@ public class MainApp extends Application {
     private SupplierMngr supplierMngr;
     private TvaMngr tvaMngr;
     private UserMngr userMngr;
+    private StatUserMngr statUserMngr;
+    private StatProductMngr statProductMngr;
+    private StatSupplierMngr statSupplierMngr;
 
 
     public static void main(String[] args) {
@@ -48,6 +54,9 @@ public class MainApp extends Application {
         supplierMngr        = new SupplierMngr(this);
         tvaMngr             = new TvaMngr(this);
         userMngr            = new UserMngr(this);
+        statUserMngr        = new StatUserMngr(this);
+        statProductMngr    = new StatProductMngr(this);
+        statSupplierMngr    = new StatSupplierMngr(this);
 
         loginMngr.initLogin();
 //        layoutMngr.initLayout();
@@ -139,5 +148,29 @@ public class MainApp extends Application {
 
     public void setUserMngr(UserMngr userMngr) {
         this.userMngr = userMngr;
+    }
+
+    public StatUserMngr getStatUserMngr() {
+        return statUserMngr;
+    }
+
+    public void setStatUserMngr(StatUserMngr statUserMngr) {
+        this.statUserMngr = statUserMngr;
+    }
+
+    public StatSupplierMngr getStatSupplierMngr() {
+        return statSupplierMngr;
+    }
+
+    public void setStatSupplierMngr(StatSupplierMngr statSupplierMngr) {
+        this.statSupplierMngr = statSupplierMngr;
+    }
+
+    public StatProductMngr getStatProductMngr() {
+        return statProductMngr;
+    }
+
+    public void setStatProductMngr(StatProductMngr statProductMngr) {
+        this.statProductMngr = statProductMngr;
     }
 }

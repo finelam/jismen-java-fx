@@ -3,9 +3,12 @@
 <?import javafx.scene.control.Menu?>
 <?import javafx.scene.control.MenuBar?>
 <?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.layout.BorderPane?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jismen.utils_bundle.LayoutCtrl">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" stylesheets="@Theme.css" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jismen.utils_bundle.LayoutCtrl">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
         <menus>
@@ -26,7 +29,25 @@
                   <MenuItem mnemonicParsing="false" onAction="#initTva" text="TVA" />
                </items>
             </Menu>
+            <Menu mnemonicParsing="false" text="Statistiques">
+              <items>
+                <MenuItem mnemonicParsing="false" onAction="#initStatUsers" text="Utilisateurs" />
+                  <MenuItem mnemonicParsing="false" onAction="#initStatProducts" text="Articles" />
+                  <MenuItem mnemonicParsing="false" onAction="#initStatSuppliers" text="Fournisseurs" />
+              </items>
+            </Menu>
         </menus>
       </MenuBar>
    </top>
+   <center>
+      <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fitHeight="486.0" fitWidth="471.0" layoutX="165.0" layoutY="101.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="100.66912841796875" AnchorPane.leftAnchor="165.0" AnchorPane.rightAnchor="164.0" AnchorPane.topAnchor="101.0">
+               <image>
+                  <Image url="@jismen.png" />
+               </image>
+            </ImageView>
+         </children>
+      </AnchorPane>
+   </center>
 </BorderPane>

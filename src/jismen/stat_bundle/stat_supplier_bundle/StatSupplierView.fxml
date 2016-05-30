@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="jismen.stat_bundle.stat_supplier_bundle.StatSupplierCtrl">
+   <children>
+      <Label fx:id="totalSupplierLabel" layoutX="283.0" layoutY="100.0" />
+   </children>
+</AnchorPane>

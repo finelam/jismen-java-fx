@@ -42,6 +42,16 @@ public class LayoutCtrl {
         manager.getMainApp().getTvaMngr().initEntities();
     }
 
+    @FXML private void initStatUsers(){
+        manager.getMainApp().getStatUserMngr().initView();
+    }
+
+    @FXML private void initStatProducts() { manager.getMainApp().getStatProductMngr().initView(); }
+
+    @FXML private void initStatSuppliers(){
+        manager.getMainApp().getStatSupplierMngr().initView();
+    }
+
     public void setManager(LayoutMngr manager){
         this.manager = manager;
     }

@@ -54,6 +54,7 @@ public class SupplierMngr {
     }
 
     public ObservableList<Supplier> getSupplierList(){
+        getAllEntities();
         return supplierList;
     }
 

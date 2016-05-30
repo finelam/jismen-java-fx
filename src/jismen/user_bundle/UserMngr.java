@@ -61,6 +61,7 @@ public class UserMngr {
     }
 
     public ObservableList<User> getUserList(){
+        getAllEntities();
         return userList;
     }
 

@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jismen/stat_bundle/stat_product_bundle/StatProductCtrl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jismen/stat_bundle/stat_product_bundle/StatProductMngr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jismen/stat_bundle/stat_product_bundle/StatProductView.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jismen/stat_bundle/stat_supplier_bundle/StatSupplierCtrl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jismen/stat_bundle/stat_supplier_bundle/StatSupplierMngr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jismen/stat_bundle/stat_supplier_bundle/StatSupplierView.fxml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jismen/stat_bundle/stat_user_bundle/StatUserCtrl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jismen/stat_bundle/stat_user_bundle/StatUserMngr.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/jismen/stat_bundle/stat_user_bundle/StatUserView.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/MainApp.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/MainApp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/color_bundle/ColorCtrl.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/color_bundle/ColorCtrl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/product_bundle/ProductCtrl.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/product_bundle/ProductCtrl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/product_bundle/ProductMngr.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/product_bundle/ProductMngr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/size_bundle/SizeCtrl.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/size_bundle/SizeCtrl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/supplier_bundle/SupplierCtrl.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/supplier_bundle/SupplierCtrl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/supplier_bundle/SupplierMngr.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/supplier_bundle/SupplierMngr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/tva_bundle/TvaCtrl.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/tva_bundle/TvaCtrl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/user_bundle/UserMngr.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/user_bundle/UserMngr.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/utils_bundle/LayoutCtrl.class" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/utils_bundle/LayoutCtrl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/utils_bundle/Landing.fxml" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/utils_bundle/Landing.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/jismen-fx/jismen/utils_bundle/Layout.fxml" afterPath="$PROJECT_DIR$/out/production/jismen-fx/jismen/utils_bundle/Layout.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jismen/MainApp.java" afterPath="$PROJECT_DIR$/src/jismen/MainApp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jismen/product_bundle/ProductMngr.java" afterPath="$PROJECT_DIR$/src/jismen/product_bundle/ProductMngr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jismen/supplier_bundle/SupplierMngr.java" afterPath="$PROJECT_DIR$/src/jismen/supplier_bundle/SupplierMngr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jismen/user_bundle/UserMngr.java" afterPath="$PROJECT_DIR$/src/jismen/user_bundle/UserMngr.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jismen/utils_bundle/Landing.fxml" afterPath="$PROJECT_DIR$/src/jismen/utils_bundle/Landing.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jismen/utils_bundle/Layout.fxml" afterPath="$PROJECT_DIR$/src/jismen/utils_bundle/Layout.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jismen/utils_bundle/LayoutCtrl.java" afterPath="$PROJECT_DIR$/src/jismen/utils_bundle/LayoutCtrl.java" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -86,12 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jismen/login_bundle/LoginManager.java" />
-        <option value="$PROJECT_DIR$/src/jismen/login_bundle/LoginMngr.java" />
-        <option value="$PROJECT_DIR$/src/jismen/utils_bundle/LayoutMngr.java" />
-        <option value="$PROJECT_DIR$/src/jismen/user_bundle/User.fxml" />
-        <option value="$PROJECT_DIR$/src/jismen/color_bundle/Color.fxml" />
-        <option value="$PROJECT_DIR$/src/jismen/category_bundle/CategoryMdl.java" />
         <option value="$PROJECT_DIR$/src/jismen/login_bundle/LoginCtrl.java" />
         <option value="$PROJECT_DIR$/src/jismen/category_bundle/CategoryEditCtrl.java" />
         <option value="$PROJECT_DIR$/src/jismen/category_bundle/CategoryMngr.java" />
@@ -112,7 +136,6 @@
         <option value="$PROJECT_DIR$/src/jismen/product_bundle/EntityEditCtrl.java" />
         <option value="$PROJECT_DIR$/src/jismen/supplier_bundle/viewDialog.fxml" />
         <option value="$PROJECT_DIR$/src/jismen/supplier_bundle/SupplierCtrl.java" />
-        <option value="$PROJECT_DIR$/src/jismen/supplier_bundle/SupplierMngr.java" />
         <option value="$PROJECT_DIR$/src/jismen/supplier_bundle/SupplierEditCtrl.java" />
         <option value="$PROJECT_DIR$/src/jismen/subcat_bundle/viewDialog.fxml" />
         <option value="$PROJECT_DIR$/src/jismen/subcat_bundle/SubcatMngr.java" />
@@ -125,17 +148,24 @@
         <option value="$PROJECT_DIR$/src/jismen/category_bundle/Category.java" />
         <option value="$PROJECT_DIR$/src/jismen/subcat_bundle/Subcat.java" />
         <option value="$PROJECT_DIR$/src/jismen/product_bundle/Product.java" />
-        <option value="$PROJECT_DIR$/src/jismen/product_bundle/ProductMngr.java" />
         <option value="$PROJECT_DIR$/src/jismen/product_bundle/ProductEditCtrl.java" />
         <option value="$PROJECT_DIR$/src/jismen/product_bundle/ProductCtrl.java" />
         <option value="$PROJECT_DIR$/src/jismen/user_bundle/viewDialog.fxml" />
-        <option value="$PROJECT_DIR$/src/jismen/utils_bundle/LayoutCtrl.java" />
         <option value="$PROJECT_DIR$/src/jismen/user_bundle/User.java" />
-        <option value="$PROJECT_DIR$/src/jismen/user_bundle/UserMngr.java" />
         <option value="$PROJECT_DIR$/src/jismen/user_bundle/UserCtrl.java" />
         <option value="$PROJECT_DIR$/src/jismen/utils_bundle/RestClient.java" />
         <option value="$PROJECT_DIR$/src/jismen/utils_bundle/Utils.java" />
         <option value="$PROJECT_DIR$/src/jismen/user_bundle/UserEditCtrl.java" />
+        <option value="$PROJECT_DIR$/src/jismen/stat_bundle/stat_user_bundle/StatUserCtrl.java" />
+        <option value="$PROJECT_DIR$/src/jismen/user_bundle/UserMngr.java" />
+        <option value="$PROJECT_DIR$/src/jismen/stat_bundle/stat_supplier_bundle/StatSupplierCtrl.java" />
+        <option value="$PROJECT_DIR$/src/jismen/utils_bundle/LayoutCtrl.java" />
+        <option value="$PROJECT_DIR$/src/jismen/product_bundle/ProductMngr.java" />
+        <option value="$PROJECT_DIR$/src/jismen/stat_bundle/stat_product_bundle/StatProductCtrl.java" />
+        <option value="$PROJECT_DIR$/src/jismen/stat_bundle/stat_product_bundle/StatProductMngr.java" />
+        <option value="$PROJECT_DIR$/src/jismen/supplier_bundle/SupplierMngr.java" />
+        <option value="$PROJECT_DIR$/src/jismen/stat_bundle/stat_supplier_bundle/StatSupplierMngr.java" />
+        <option value="$PROJECT_DIR$/src/jismen/stat_bundle/stat_user_bundle/StatUserMngr.java" />
         <option value="$PROJECT_DIR$/src/jismen/MainApp.java" />
       </list>
     </option>
@@ -192,7 +222,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -201,10 +232,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jismen-fx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jismen-fx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jismen-fx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jismen-fx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jismen" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,20 +290,20 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\user_bundle" />
-      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\subcat_bundle" />
-      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\supplier_bundle" />
-      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\product_bundle" />
-      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\utils_bundle" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\login_bundle" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="jismen.tva_bundle" />
       <recent name="jismen.size_bundle" />
       <recent name="jismen.color_bundle" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\login_bundle" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\stat_bundle\stat_supplier_bundle" />
+      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\stat_bundle\stat_product_bundle" />
+      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\stat_bundle\stat_user_bundle" />
+      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\user_bundle" />
+      <recent name="D:\Finelam\Projects\jismen-fx\src\jismen\subcat_bundle" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">
@@ -985,12 +1043,22 @@
       <workItem from="1462203592285" duration="960000" />
       <workItem from="1462205222657" duration="2000" />
       <workItem from="1462965549631" duration="598000" />
-      <workItem from="1462981945481" duration="87000" />
+      <workItem from="1462981945481" duration="686000" />
+      <workItem from="1463228983001" duration="31000" />
+      <workItem from="1463311348555" duration="596000" />
+      <workItem from="1463994904398" duration="7413000" />
+      <workItem from="1464003786527" duration="1179000" />
+      <workItem from="1464079289839" duration="203000" />
+      <workItem from="1464081007964" duration="3034000" />
+      <workItem from="1464215340805" duration="593000" />
+      <workItem from="1464593385455" duration="1208000" />
+      <workItem from="1464595316380" duration="179000" />
+      <workItem from="1464595561498" duration="292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="142277000" />
+    <option name="totallyTimeSpent" value="157604000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
@@ -1002,7 +1070,6 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32762313" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1453125" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
@@ -1011,16 +1078,17 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869378" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32762313" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32869378" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1047,7 +1115,7 @@
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
+      <option name="time" value="15" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1056,102 +1124,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/jismen/color_bundle/ColorEditCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="93" column="0" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/color_bundle/ColorCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="114" column="9" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/size_bundle/viewDialog.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/size_bundle/SizeEditCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/size_bundle/SizeCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.1666665">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/tva_bundle/viewDialog.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/tva_bundle/TvaEditCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/sample_bundle/Entity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/sample_bundle/EntityCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/sample_bundle/EntityMngr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/sample_bundle/viewDialog.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/sample_bundle/viewEntity.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24905661">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/sample_bundle/EntityEditCtrl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1160,13 +1132,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/supplier_bundle/viewDialog.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/supplier_bundle/SupplierEditCtrl.java">
@@ -1184,46 +1156,32 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/product_bundle/viewEntity.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3325">
           <caret line="14" column="114" selection-start-line="14" selection-start-column="113" selection-end-line="14" selection-end-column="114" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/subcat_bundle/viewEntity.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/subcat_bundle/viewEntity.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/subcat_bundle/viewDialog.fxml">
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/subcat_bundle/viewDialog.fxml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/category_bundle/CategoryMngr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/category_bundle/CategoryCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="85" column="31" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1317,13 +1275,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/supplier_bundle/SupplierMngr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="12" selection-start-line="30" selection-start-column="12" selection-end-line="40" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/tva_bundle/TvaMngr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1338,13 +1289,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/product_bundle/ProductMngr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="52" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/product_bundle/ProductCtrl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1353,13 +1297,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/product_bundle/viewDialog.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7547847">
           <caret line="126" column="25" selection-start-line="126" selection-start-column="25" selection-end-line="126" selection-end-column="25" />
         </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/product_bundle/ProductEditCtrl.java">
@@ -1370,33 +1314,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/user_bundle/viewDialog.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/LayoutMngr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04772475">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/LayoutCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29300776">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/RestClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="157" column="0" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1407,31 +1330,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/MainApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9260504">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jismen/user_bundle/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/user_bundle/UserMngr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2554622">
-          <caret line="43" column="29" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/jismen/user_bundle/UserCtrl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="4.17479">
-          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1446,6 +1348,177 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8134454">
           <caret line="28" column="63" selection-start-line="28" selection-start-column="63" selection-end-line="28" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/category_bundle/CategoryMngr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.81512606">
+          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/Landing.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/stat_bundle/stat_user_bundle/StatUserView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6226415">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/user_bundle/UserCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="130" column="0" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/stat_bundle/stat_product_bundle/StatProductView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.7230768">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/stat_bundle/stat_supplier_bundle/StatSupplierView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/stat_bundle/stat_user_bundle/StatUserCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7802442">
+          <caret line="32" column="78" selection-start-line="32" selection-start-column="78" selection-end-line="32" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/user_bundle/UserMngr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52605045">
+          <caret line="62" column="45" selection-start-line="62" selection-start-column="45" selection-end-line="62" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/LayoutMngr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17092119">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/LayoutCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4789916">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/product_bundle/ProductMngr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.40168068">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/supplier_bundle/SupplierMngr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50756305">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/stat_bundle/stat_user_bundle/StatUserMngr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/MainApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/utils_bundle/RestClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/stat_bundle/stat_product_bundle/StatProductMngr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/stat_bundle/stat_product_bundle/StatProductCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/category_bundle/CategoryCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="85" column="31" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/category_bundle/CategoryEditCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36625972">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/stat_bundle/stat_supplier_bundle/StatSupplierMngr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.024417315">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/stat_bundle/stat_supplier_bundle/StatSupplierCtrl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24417314">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jismen/category_bundle/viewDialog.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21052632">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>

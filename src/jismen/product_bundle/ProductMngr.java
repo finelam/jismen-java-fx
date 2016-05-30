@@ -71,6 +71,7 @@ public class ProductMngr {
     }
 
     public ObservableList<Product> getProductList(){
+        getAllEntities();
         return productList;
     }
 
